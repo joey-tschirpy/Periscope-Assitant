@@ -1,0 +1,97 @@
+VESSEL DETAILS
+{
+CLASS
+{
+going with
+a new line
+with an extra line
+}
+}
+{
+NAME
+{
+vessel 1
+}
+}
+{
+TYPE
+{
+boat type
+}
+}
+DIMENSIONS & DISPLACEMENT
+{
+DIMENSIONS
+{
+width by height
+}
+}
+{
+LENGTH
+{
+boat length
+}
+}
+{
+BEAM
+{
+beam wide
+}
+}
+{
+DRAUGHT
+{
+about that
+}
+}
+PERFORMANCE
+{
+SPEED
+{
+fast
+}
+}
+{
+RANGE
+{
+from here to there
+}
+}
+PROPULSION
+{
+MACHINERY
+{
+boat engine
+}
+}
+ARMAMENT
+{
+WEAPONS
+{
+no weapons
+}
+}
+{
+COUNTERMEASURES
+{
+no countermeasures
+}
+}
+{
+RADARS
+{
+no radars
+}
+}
+{
+SONARS
+{
+no sonars
+}
+}
+{
+AIRCRAFT CAPABILITIES
+{
+no aircraft capabilities
+}
+}
